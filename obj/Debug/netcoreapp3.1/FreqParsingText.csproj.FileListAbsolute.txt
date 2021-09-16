@@ -1,0 +1,13 @@
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.exe
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.deps.json
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.runtimeconfig.json
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.runtimeconfig.dev.json
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.dll
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\bin\Debug\netcoreapp3.1\FreqParsingText.pdb
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.csprojAssemblyReference.cache
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.AssemblyInfoInputs.cache
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.AssemblyInfo.cs
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.csproj.CoreCompileInputs.cache
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.dll
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.pdb
+C:\Users\chuhn\source\repos\FreqParsingText\FreqParsingText\obj\Debug\netcoreapp3.1\FreqParsingText.genruntimeconfig.cache
